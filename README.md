@@ -5,4 +5,4 @@ A set of tools I made, mostly PowerShell scripts. I'll be glad if you'll find th
 ## Tools
 
 - hide-dotfolders.ps1
-...and soon will come more!
+- ... and soon will come more!
